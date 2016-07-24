@@ -1,0 +1,3 @@
+ROOT = 0
+LEVEL_1 = 1
+LEVEL_2 = 2
